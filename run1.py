@@ -33,7 +33,7 @@ elif app_mode =='Prediction':
 
     #st.image('slider-short-3.jpg')
 
-    st.subheader('Sir/Mme , YOU need to fill all neccesary informations in order to get a reply to your loan request !')
+    st.subheader('Sir/Mam , YOU need to fill all neccesary informations in order to get a reply to your loan request !')
     st.sidebar.header("Informations about the client :")
     gender_dict = {"Male":1,"Female":2}
     feature_dict = {"No":1,"Yes":2}
